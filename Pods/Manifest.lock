@@ -1,5 +1,6 @@
 PODS:
   - Alamofire (4.5.1)
+  - IQKeyboardManager (5.0.0)
   - Socket.IO-Client-Swift (12.0.0):
     - StarscreamSocketIO (~> 8.0.7)
   - StarscreamSocketIO (8.0.7)
@@ -7,15 +8,17 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire
+  - IQKeyboardManager
   - Socket.IO-Client-Swift
   - SwiftyJSON
 
 SPEC CHECKSUMS:
   Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  IQKeyboardManager: 5edc5bcd5cd3e6982924e6318b82c57099eb0a6c
   Socket.IO-Client-Swift: 5b0154b42b3892bfb4c44fa138cbeb8afec4f6ef
   StarscreamSocketIO: 00b54e4208481ca5cef089545353aaf126bae16d
   SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
 
-PODFILE CHECKSUM: 3c1242abd53f4bcd9728db0930aee33dd1e183a5
+PODFILE CHECKSUM: f08e8a5ee87858c5f551fabb01482d005f46099a
 
 COCOAPODS: 1.1.1
